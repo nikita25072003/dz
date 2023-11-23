@@ -1,0 +1,16 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+body {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-image: linear-gradient(yellow, orangered);
+}
+b {
+    color: white;
+    font-size: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
